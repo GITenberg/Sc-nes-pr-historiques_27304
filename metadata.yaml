@@ -1,0 +1,34 @@
+_repo: Sc-nes-pr-historiques_27304
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rosny, J.-H., aîné
+    aliases:
+    - Enacryos
+    - Boëx-Borel, J. H.
+    - Boex, Joseph-Henri-Honore
+    - Rosny, J.-H., aine
+    - Boëx, Joseph-Henri-Honoré
+    birthdate: 1856
+    deathdate: 1940
+    gutenberg_agent_id: '32612'
+    url: http://www.gutenberg.org/2009/agents/32612
+    wikipedia: http://en.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27304'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prehistoric peoples -- Fiction'
+- !lcc 'PQ'
+title: Scènes préhistoriques
+url: http://www.gutenberg.org/ebooks/27304
